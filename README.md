@@ -25,8 +25,8 @@ These dependencies are listed in the `requirements.txt` file.
 ### Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/andrepbo/fastapi-app.git
+cd fastapi-app
 ```
 
 ### Install Dependencies
